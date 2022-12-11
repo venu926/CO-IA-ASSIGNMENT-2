@@ -10,7 +10,7 @@ The server application itself can be built using any language you are comfortabl
 The port on which the server runs must be specified as a command line argument when we run docker.
 
 
-Client
+Client:
 Create a volume by name clientvol.
 The client container will mount clientvol in /clientdata.
 The client container runs an application that connects to the server, recieves the file that the server sends and saves it in "/clientdata".
@@ -21,4 +21,5 @@ To view the complete question, click here.
 
 
 How to Run
+
 $ docker compose up
