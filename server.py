@@ -1,10 +1,9 @@
-
-# Author: ISHA SHARMA
-# SAP ID: 500082723
-# ROLL NO: R214220530
-# Batch: 5
+# Author: VENU AGARWAL
+# SAP ID: 500086693
+# ROLL NO: R2142201688
+# Batch: B-2(H)
 # Course: Container Orchestration and Infrastructure Automation
-# Program: BTECH CSE & Spl. CC&VT
+# Program: BTECH CSE & Spl. CC&VT(H)
 
 
 import socket
@@ -60,5 +59,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-Footer
-© 2022 GitHub, Inc.
+
